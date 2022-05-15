@@ -32,8 +32,9 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> I am ready to manage everything <h2>
-   <h1> Started to learn adding user permissions <h1>
-   <h1> Added the new code <h1>
-		   <h6> Successfully pushed the code into remote repo <h6>
+   <h2> I am ready to manage everything </h2>
+   <h1> Started to learn adding user permissions </h1>
+   <h1> Added the new code </h1>
+   <h4> automated using poll SCM </h4>
+   <h6> Successfully pushed the code into remote repo </h6>
 </form>
