@@ -32,15 +32,5 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> I am ready to manage everything </h2>
-   <h1> Started to learn adding user permissions </h1>
-   <h1> Added the new code </h1>
-   <h4> automated using poll SCM </h4>
-   <h6> Successfully pushed the code into remote repo </h6>
-   <h3> Automated Poll SCM Successfull</h3>
-   <h1> Finally checking it will be automated or not </h1> 
-   <h2> for testing purpose </h2>
-   <h1> Final testing process </h1>
-   <h1> For testing purpose </h1>
-   <h2> final testing process </h2>
+
 </form>
