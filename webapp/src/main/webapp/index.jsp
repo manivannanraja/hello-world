@@ -8,6 +8,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> CI CD pipeline setup with pipeline </h1>
+   <h1> CI CD pipeline setup with ansible </h1>
     
 </form>
